@@ -1,4 +1,4 @@
-# Teamfight-Tactics-in-Java-Thesis
+# Teamfight Tactics in Java Thesis
 A BSc Diplomámhoz elkészített szakdolgozatom, Java Swing, MariaDB, JUnit 5 (JUnit Jupiter) technológiák felhasználásával.
 A játék telepítéséhez szükséges a Java SE JRE, abból is a 14-es verzió a futtatáshoz.
 <br>Futtatható:
